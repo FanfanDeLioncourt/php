@@ -1,6 +1,6 @@
 # PHP Example
 
-A sample php microservice block for [kintohub](http://kintohub.com)
+A sample php microservice block for [kintohub](http://kintohub.com) modified by Fanfan
 
 # First time setup
 
